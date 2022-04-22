@@ -14,7 +14,7 @@ Atmega328
 
 . LEDs
 
-#  *Advantages:
+# Advantages:
 
 Long Lifespan.
 
@@ -75,4 +75,4 @@ Advantages:
 
 • Instant Lighting and the Ability to Withstand Frequent Switching
 
-Low Voltage Operation.*
+Low Voltage Operation.
