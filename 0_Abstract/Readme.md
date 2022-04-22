@@ -5,7 +5,7 @@
 
  # OBJECTIVE:
 
-The aim of this project is to blink the LED in a more smarter way using Atmega328. The blinking simply means the ON and OFF of the LED, it's simple as that of switching the power supply ON and OFF.
+ *The aim of this project is to blink the LED in a more smarter way using Atmega328. The blinking simply means the ON and OFF of the LED, it's simple as that of switching the power supply ON and OFF.*
 
 
 # COMPONENTS:
@@ -14,7 +14,7 @@ Atmega328
 
 . LEDs
 
-Advantages:
+#  *Advantages:
 
 Long Lifespan.
 
@@ -32,7 +32,7 @@ Instant Lighting and the Ability to Withstand Frequent Switching.
 
 Low Voltage Operation.
 
-Disadvantages:
+# Disadvantages:
 
 • High up-front costs.
 
@@ -75,4 +75,4 @@ Advantages:
 
 • Instant Lighting and the Ability to Withstand Frequent Switching
 
-Low Voltage Operation.
+Low Voltage Operation.*
