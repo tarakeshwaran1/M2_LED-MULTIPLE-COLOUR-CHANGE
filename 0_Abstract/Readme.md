@@ -40,8 +40,10 @@ Low Voltage Operation.
 
 • Potential color shift over lamp life.
 
-• Performance standardization has not yet been streamlined. • Overheating can cause reduced lamp life.
-Components:
+• Performance standardization has not yet been streamlined. 
+• Overheating can cause reduced lamp life.
+
+# Components:
 
 • Atmega328
 
@@ -53,7 +55,7 @@ Components:
 
 . Fixed Voltage SV
 
-SOFTWARE USED:
+# SOFTWARE USED:
 
 • SimuliDE
 
